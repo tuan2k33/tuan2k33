@@ -12,6 +12,9 @@
 - Web Dev: PHP, HTML, CSS, JavaScript
 - Misc.: Academic research, LATEX
 
+
++ Exploring in Progress: Roboflow, Docker, GitHub, RESTful API, React
+
 ## Contact
  
 - Student email: **[tuan.nguyen1688@hcmut.edu.vn](mailto:tuan.nguyen1688@hcmut.edu.vn)**
