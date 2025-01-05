@@ -1,6 +1,7 @@
 ## About me 
 
-I'm Nguyễn Quốc Tuấn, a student who loves coding and exploring new techs, studying Computer Science at Ho Chi Minh University of Technology, **Vietnam National University - Ho Chi Minh City** (2021-now).
+- I'm Nguyễn Quốc Tuấn, a student who loves coding and exploring new techs.
+- I'm studying Computer Science at Ho Chi Minh University of Technology, **Vietnam National University - Ho Chi Minh City** (2021-now).
 
 ## Skills & Techs
 
@@ -12,8 +13,7 @@ I'm Nguyễn Quốc Tuấn, a student who loves coding and exploring new techs, 
 - Misc.: Academic research, LATEX
 
 ## Contact
-
-📫 Reach me via: 
+ 
 - Student email: **[tuan.nguyen1688@hcmut.edu.vn](mailto:tuan.nguyen1688@hcmut.edu.vn)**
 - Personal email: **[tuan1688nw@gmail.com](mailto:tuan1688nw@gmail.com)** (+ skype)
 - LinkedIn: [Tuan Nguyen](https://www.linkedin.com/in/tuan2k33/)
