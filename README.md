@@ -1,8 +1,7 @@
 ## About me 
 
 👋 I'm Nguyễn Quốc Tuấn, a student who loves coding and exploring new techs.
-- 🌱 I’m currently studying Computer Science at Ho Chi Minh University of Technology, **Vietnam National University - Ho Chi Minh City** (2021-now).
-- 💬 Languages: Vietnamese > English (B2) > Japanese (beginner)
+🌱 I’m studying Computer Science at Ho Chi Minh University of Technology, **Vietnam National University - Ho Chi Minh City** (2021-now).
 
 ## Skills & Techs
 
