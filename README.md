@@ -1,24 +1,17 @@
-## tuan2k33
-
-<p align="center">
-  <a href="https://github.com/tuan2k33">
-    <img src=https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=tuan2k33&theme=monokai>
-  </a>
-</p>
-
 ## About me 
 
 👋 I'm Nguyễn Quốc Tuấn, a student who loves coding and exploring new techs.
-- 🌱 I’m currently studying Computer Science at Ho Chi Minh University of Technology, **Vietnam National University - Ho Chi Minh City** (K21).
+- 🌱 I’m currently studying Computer Science at Ho Chi Minh University of Technology, **Vietnam National University - Ho Chi Minh City** (2021-now).
 - 💬 Languages: Vietnamese > English (B2) > Japanese (beginner)
 
 ## Skills & Techs
 
-<p align="center">
-  <a href="https://github.com/tuan2k33">
-    <img src=https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=tuan2k33&theme=monokai>
-  </a>
-</p>
+Office Informatics: Word, Excel, PowerPoint
+Languages: Vietnamese, English (B2), Japanese (beginner)
+Coding: C++, C, C#, Python
+Databases: MySQL, SSMS
+Web Dev: PHP, HTML, CSS, JavaScript
+Misc.: Academic research, LATEX
 
 ## Contact
 
