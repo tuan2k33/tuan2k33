@@ -6,12 +6,12 @@
 
 ## Skills & Techs
 
-Office Informatics: Word, Excel, PowerPoint
-Languages: Vietnamese, English (B2), Japanese (beginner)
-Coding: C++, C, C#, Python
-Databases: MySQL, SSMS
-Web Dev: PHP, HTML, CSS, JavaScript
-Misc.: Academic research, LATEX
+- Office Informatics: Word, Excel, PowerPoint
+- Languages: Vietnamese, English (B2), Japanese (beginner)
+- Coding: C++, C, C#, Python
+- Databases: MySQL, SSMS
+- Web Dev: PHP, HTML, CSS, JavaScript
+- Misc.: Academic research, LATEX
 
 ## Contact
 
