@@ -13,7 +13,7 @@
 - Misc.: Academic research, LATEX
 
 
-+ Exploring in Progress: Roboflow, Docker, GitHub, RESTful API, React
++ Exploring in Progress: YOLO, Docker, GitHub, RESTful API, React
 
 ## Contact
  
