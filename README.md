@@ -7,7 +7,7 @@
 ## Skills & Techs
 
 - Office Informatics: Word, Excel, PowerPoint
-- Languages: Vietnamese, English (B2), Japanese (beginner)
+- Languages: Vietnamese, English (B2), Japanese (N5)
 - Coding: C++, C, C#, Python
 - Databases: MySQL, SSMS
 - Web Dev: PHP, HTML, CSS, JavaScript
