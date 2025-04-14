@@ -14,38 +14,18 @@
 - Misc.: Academic research, LATEX
 
 
-+ Exploring in Progress: YOLO, Docker, GitHub, RESTful API, React
++ Exploring: Java, RESTful API, React, LLM
 
 ## Projects
 
-### [FleetManagement](https://github.com/tuan2k33/FleetManagement)
 
 2023 Advanced Programming Project to manage vehicles and drivers.
-|Title | Stars | Watchers | Techs|
-|--|--|--|--|
-[FleetManagement](https://github.com/tuan2k33/FleetManagement) | <img alt="Stars" src="https://img.shields.io/github/stars/tuan2k33/FleetManagement?style=flat-square&labelColor=black"/> | <img alt="Stars" src="https://img.shields.io/github/watchers/tuan2k33/FleetManagement?style=flat-square&labelColor=black"/> | PHP, CSS, JS
-
-### [HotpotManagement](https://github.com/tuan2k33/HotpotManagement)
-
-2023 Software Engineering Project to manage a hotpot restaurant.
-|Title | Stars | Watchers| Techs|
-|--|--|--|--|
-[HotpotManagement](https://github.com/tuan2k33/HotpotManagement) | <img alt="Stars" src="https://img.shields.io/github/stars/tuan2k33/HotpotManagement?style=flat-square&labelColor=black"/> | <img alt="Stars" src="https://img.shields.io/github/watchers/tuan2k33/HotpotManagement?style=flat-square&labelColor=black"/> | PHP, CSS, JS
-
-
-### [controlRobotBlockly](https://github.com/tuan2k33/controlRobotBlockly)
-
-This project builds a web app (and its setups) to control a (virtual) robot using interactive blocks instead of typing commands in Terminal.
-|Title | Stars | Watchers | Techs|
-|--|--|--|--|
-[controlRobotBlockly](https://github.com/tuan2k33/controlRobotBlockly) | <img alt="Stars" src="https://img.shields.io/github/stars/tuan2k33/controlRobotBlockly?style=flat-square&labelColor=black"/> | <img alt="Stars" src="https://img.shields.io/github/watchers/tuan2k33/controlRobotBlockly?style=flat-square&labelColor=black"/> | Makefile, C, C++, Python
-
-### [replySystem](https://github.com/tuan2k33/replySystem)
-
-This project builds a reply system (part of a chatbot) to give customers flight information based on the questions.
-|Title | Stars | Watchers | Techs|
-|--|--|--|--|
-[replySystem](https://github.com/tuan2k33/replySystem) | <img alt="Stars" src="https://img.shields.io/github/stars/tuan2k33/replySystem?style=flat-square&labelColor=black"/> | <img alt="Stars" src="https://img.shields.io/github/watchers/tuan2k33/replySystem?style=flat-square&labelColor=black"/> | Python, Docker
+| Project | Techs | Description |
+|--|--|--|
+[FleetManagement](https://github.com/tuan2k33/FleetManagement) | PHP, CSS, JS | 2023 Advanced Programming Project, manage vehicles and drivers.
+[HotpotManagement](https://github.com/tuan2k33/HotpotManagement) | PHP, CSS, JS | 2023 Software Engineering Project, manage a hotpot restaurant.
+[controlRobotBlockly](https://github.com/tuan2k33/controlRobotBlockly) | C, C++, Python | A web app to control a (virtual) robot using interactive blocks instead of typing in Terminal.
+[replySystem](https://github.com/tuan2k33/replySystem) | Python, Docker | A reply system (part of a chatbot) to give customers flight information based on the questions.
 
 ## Contact
  
