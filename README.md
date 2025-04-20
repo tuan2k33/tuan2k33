@@ -18,8 +18,6 @@
 
 ## Projects
 
-
-2023 Advanced Programming Project to manage vehicles and drivers.
 | Project | Techs | Description |
 |--|--|--|
 [FleetManagement](https://github.com/tuan2k33/FleetManagement) | PHP, CSS, JS | 2023 Advanced Programming Project, manage vehicles and drivers.
