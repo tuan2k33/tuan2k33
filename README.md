@@ -22,7 +22,7 @@
 |--|--|--|
 [FleetManagement](https://github.com/tuan2k33/FleetManagement) | PHP, CSS, JS | 2023 Advanced Programming Project, manage vehicles and drivers.
 [HotpotManagement](https://github.com/tuan2k33/HotpotManagement) | PHP, CSS, JS | 2023 Software Engineering Project, manage a hotpot restaurant.
-[controlRobotBlockly](https://github.com/tuan2k33/controlRobotBlockly) | C, C++, Python | A web app to control a (virtual) robot using interactive blocks instead of typing in Terminal.
+[controlRobotBlockly](https://github.com/tuan2k33/controlRobotBlockly) | C, C++, Python, React Blockly | A web app to control a (virtual) robot using interactive blocks instead of typing in Terminal.
 [replySystem](https://github.com/tuan2k33/replySystem) | Python, Docker | A reply system (part of a chatbot) to give customers flight information based on the questions.
 
 ## Contact
