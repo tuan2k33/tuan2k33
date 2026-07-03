@@ -10,11 +10,11 @@
 - Coding: C++, C, C#, Python
 - Databases: MySQL, SSMS
 - Web Dev: PHP, HTML, CSS
-- Computer Vision: PyTorch, OpenCV, DeepStream
+- Computer Vision: PyTorch, OpenCV, DeepStream, Triton
 - Misc.: Academic research, LATEX
 
 
 ## Contact
-- Personal email: [tuan1688nw@gmail.com](mailto:tuan1688nw@gmail.com) 
+- Personal email: [tuan16work@gmail.com](mailto:tuan16work@gmail.com) 
 - LinkedIn: [Tuan Nguyen](https://www.linkedin.com/in/tuan2k33/)
 - Phone: +84 966228451
