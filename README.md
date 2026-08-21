@@ -1,20 +1,22 @@
 ## About me 
 
-- I'm Nguyễn Quốc Tuấn, recently worked as a computer vision AI Engineer.
-- Bachelor of Computer Science - Ho Chi Minh University of Technology, **VNU-HCM**.
+- I'm Nguyễn Quốc Tuấn, an AI Engineer specializing in Computer Vision — production systems from model training to edge deployment and real-time pipelines.
+- Bachelor of Science – Computer Science, Ho Chi Minh City University of Technology (HCMUT — VNU-HCM), 2026.
+- 🌐 Portfolio: [tuan2k33.github.io](https://tuan2k33.github.io)
+- 📄 CV: [Download PDF](https://tuan2k33.github.io/cv-nguyen-quoc-tuan.pdf)
 
 ## Skills & Techs
 
-- Office Informatics: Word, Excel, PowerPoint
-- Languages: Vietnamese, English (B2)
-- Coding: C++, C, C#, Python
-- Databases: MySQL, SSMS
-- Web Dev: PHP, HTML, CSS
-- Computer Vision: PyTorch, OpenCV, DeepStream, Triton
-- Misc.: Academic research, LATEX
+- Programming: Python, C/C++, R, MATLAB
+- Machine Learning: PyTorch, OpenCV, YOLO, ResNet, OCR
+- MLOps & Edge: TensorRT, NVIDIA DeepStream, Triton, Docker, Linux (Ubuntu)
+- Database: SQL (SSMS, MySQL)
+- Web Dev: PHP, HTML, CSS, JavaScript
+- Office & Misc.: Word, Excel, PowerPoint, LaTeX, Academic research
+- Languages: Vietnamese, English (IELTS 6.5)
 
 
 ## Contact
 - Personal email: [tuan16work@gmail.com](mailto:tuan16work@gmail.com) 
 - LinkedIn: [Tuan Nguyen](https://www.linkedin.com/in/tuan2k33/)
-- Phone: +84 966228451
+- Phone: +84 966 228 451
