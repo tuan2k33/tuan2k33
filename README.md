@@ -8,8 +8,8 @@
 ## Skills & Techs
 
 - Programming: Python, C/C++, R, MATLAB
-- Machine Learning: PyTorch, OpenCV, YOLO, ResNet, OCR
-- MLOps & Edge: TensorRT, NVIDIA DeepStream, Triton, Docker, Linux (Ubuntu)
+- Machine Learning: PyTorch, OpenCV, YOLO, ResNet, ViT, OCR
+- MLOps & Edge: TensorRT, Triton, NVIDIA DeepStream, NVIDIA Jetson (Orin, Thor), Kafka, Docker, Linux (Ubuntu)
 - Database: SQL (SSMS, MySQL)
 - Web Dev: PHP, HTML, CSS, JavaScript
 - Office & Misc.: Word, Excel, PowerPoint, LaTeX, Academic research
