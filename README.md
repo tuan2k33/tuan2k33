@@ -7,12 +7,10 @@
 
 ## Skills & Techs
 
-- Programming: Python, C/C++, R, MATLAB
+- Programming: Python, C/C++
 - Machine Learning: PyTorch, OpenCV, YOLO, ResNet, ViT, OCR
 - MLOps & Edge: TensorRT, Triton, NVIDIA DeepStream, NVIDIA Jetson (Orin, Thor), Kafka, Docker, Linux (Ubuntu)
 - Database: SQL (SSMS, MySQL)
-- Web Dev: PHP, HTML, CSS, JavaScript
-- Office & Misc.: Word, Excel, PowerPoint, LaTeX, Academic research
 - Languages: Vietnamese, English (IELTS 6.5)
 
 
